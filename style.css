@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.wrapper {
+  width: 65vmin;
+  height: 70vmin;
+  background: #1c0f59;
+
+  & .game-details {
+    color: #fff;
+    font-size: 18px;
+  }
+}
