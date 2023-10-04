@@ -1,7 +1,6 @@
 # Snake Game
 
-## Demo Link
-[link](https://sanjeevani-25.github.io/snake-game/)
+[Demo link](https://sanjeevani-25.github.io/snake-game/)
 
 ## Introduction
 This repository contains the classic Snake Game built using vanilla JavaScript. Players control a snake with the goal of eating food items, growing longer with each consumed item. The game ends when the snake runs into the wall or itself.
